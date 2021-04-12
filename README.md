@@ -1,6 +1,6 @@
 # PythonProject
 
-<h2>조원: 김다운, 김희로</h2>
+<h2 style="text-align:right">조원: 김다운, 김희로</h2>
 
 <h3>1.	프로젝트 주제</h3>
  스팸메일 구분 or 사진을 통해 세계의 전통음식 지역별 구분 
