@@ -15,12 +15,13 @@
  전통음식 사진으로부터 지역 판별
 
 <h3>4.	개발 환경 및 사용 기술</h3>
-4.1	개발 환경
+<ul>
+ <li>	개발 환경</li>
  Python, Google Colab
 
-4.2	사용 라이브러리, Open API 등
+<li>	사용 라이브러리, Open API 등</li>
  Keras, Numpy, Pandas, Matplotlib
-
+</ul>
 <h3>5.	역할 분담</h3>
  자료조사, 코딩 : 김다운, 김희로
 
