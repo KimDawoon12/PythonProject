@@ -25,5 +25,9 @@
 <h3>6.	참고 사이트 또는 아이디어를 얻은 대상</h3>
  https://www.kaggle.com/uciml/sms-spam-collection-dataset
  
+ 열 : v1, v2
+ v1 - spam(스펨메일), ham(일반메일)
+ v2 - 스펨메일의 내용
+ 
 <h3>7. 코렙 </h3>
  https://colab.research.google.com/drive/1dkdxhChQzY3YipIFFGE2_02C8XqFI6Lh?usp=sharing
