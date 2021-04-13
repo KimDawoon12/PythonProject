@@ -17,7 +17,7 @@
  Python, Google Colab
 
 <li>	사용 라이브러리, Open API 등</li>
- Keras, Numpy, Pandas, Matplotlib
+ Keras, Numpy, Pandas, Matplotlib, Seaborn
 </ul>
 <h3>5.	역할 분담</h3>
 &nbsp 자료조사, 코딩 : 김다운, 김희로
