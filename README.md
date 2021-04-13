@@ -25,3 +25,5 @@
 <h3>6.	참고 사이트 또는 아이디어를 얻은 대상</h3>
  https://www.kaggle.com/uciml/sms-spam-collection-dataset
  
+<h3>7. 코렙 </h3>
+ https://colab.research.google.com/drive/1dkdxhChQzY3YipIFFGE2_02C8XqFI6Lh?usp=sharing
