@@ -24,7 +24,7 @@ AI분야에서도 인간의 언어를 기계가 이해한다는 것에 흥미를
  Python, Google Colab
 
 <li>	사용 라이브러리</li>
- Keras, Numpy, Pandas, Seaborn
+ Keras, Numpy, Pandas, Seaborn, Vanilla RNN
 </ul>
 <h3>5.	역할 분담</h3>
 &nbsp 자료조사, 코딩 : 김다운, 김희로, 김재웅
