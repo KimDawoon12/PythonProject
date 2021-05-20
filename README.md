@@ -40,3 +40,7 @@ AI분야에서도 인간의 언어를 기계가 이해한다는 것에 흥미를
  
 <h3>7. 코렙 </h3>
  https://colab.research.google.com/drive/1dkdxhChQzY3YipIFFGE2_02C8XqFI6Lh?usp=sharing
+ 
+<h3>8. 결론</h3>
+지금의 데이터셋으로도 간단한 스팸이나 일반메일을 구분할 수 있으나
+데이터셋이 많으면 많을 수록 더욱 정밀한 스팸메일 분류가 될것으로 생각됩니다.
