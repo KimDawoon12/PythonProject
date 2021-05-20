@@ -33,7 +33,7 @@ AI분야에서도 인간의 언어를 기계가 이해한다는 것에 흥미를
  https://www.kaggle.com/uciml/sms-spam-collection-dataset
  <br>
  열 : v1, v2<br>
- v1 - spam(스펨메일), ham(일반메일)<br>
+ v1 - spam(스펨메일), ham(일반메일) <br>
  v2 - 스펨메일의 내용<br>
  <br>
  행 : 5572
